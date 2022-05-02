@@ -1,0 +1,26 @@
+pensamento computacional
+
+ressolução de problemmas
+
+
+4 pilares que o pensamento computacional é baseado
+
+decomposiçao - dividir um problema para que seja mais facil de resolver
+
+reconhecimento de padroes - 
+abstração
+design de algoritmoss
+
+
+indução - to vendo e crio teoria 
+dedução - tenho teoria e resolvo a partir disso
+abdução - a grama esta molhada, logo choveu
+
+sintetica - construção - abducao e inducao
+analitica - analise - dedução
+
+algoritmo - sequencia de passos com objetivo definido
+execução de tarefas especificas
+conjunto de operações que resultam em coisas finiitas
+
+

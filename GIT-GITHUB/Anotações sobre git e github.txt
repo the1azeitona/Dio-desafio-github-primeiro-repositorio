@@ -1,0 +1,13 @@
+Sha1 - 
+-A encriptação gera conjunto de characteres idenificador
+de 40 digitos
+-é uma forma curta de representar um arquivo
+
+Commit - tree - author - committer
+
+
+Objetos fundamentais (tree)
+
+
+
+

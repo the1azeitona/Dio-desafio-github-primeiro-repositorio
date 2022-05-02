@@ -1,0 +1,22 @@
+Sempre separar o projeto em partes pequenas, fazendo uma por uma
+invés de tentar fazer o projeto inteiro de uma vez só
+
+Épicos - incremento sem muito detalhamento ajuda a te direcionar
+para os caminhos que deve seguir
+
+Estória - Detalhamento dos epicos. Um epico normalmente se divide 
+em várias estórias, onde ficam descritos o que deve acontecer
+e suas regras de negócio
+
+
+
+EXEMPLO DE CONSTRUÇÃO E ESTRUTURA (WEBSITE)
+
+1. THEME   
+2. Criação de carrinho da pagina (banner) => ÉPICO
+3. Adições e remoçoes de itens do carrinho => ESTÓRIA USER
+4. 
+- link para main website 
+- botão "add to carrinho" depois de cada item
+- botão "remove do carrinho" depois de cada item 
+- botão "abrir carrinho" no website		=> TASKS
