@@ -1,0 +1,7 @@
+tab = completa palavra a partir da primeira letra no cmd
+echo = print em algo
+echo "hello" > = sinal de maior leva o "hello" para a pasta que estamos trabalhando
+rmdir /s /q = remover pasta 
+del = remover arquivo da pasta
+
+chave ssh - forma de obter conexao segura entre duas maquinas
